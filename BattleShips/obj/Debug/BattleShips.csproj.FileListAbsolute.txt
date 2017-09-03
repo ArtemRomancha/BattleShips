@@ -1,0 +1,9 @@
+D:\Dropbox\Курсовая\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+D:\Dropbox\Курсовая\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+D:\Dropbox\Курсовая\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+D:\Dropbox\Курсовая\BattleShips\BattleShips\obj\Debug\BattleShips.csprojResolveAssemblyReference.cache
+D:\Dropbox\Курсовая\BattleShips\BattleShips\obj\Debug\BattleShips.Form1.resources
+D:\Dropbox\Курсовая\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+D:\Dropbox\Курсовая\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.GenerateResource.Cache
+D:\Dropbox\Курсовая\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+D:\Dropbox\Курсовая\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
